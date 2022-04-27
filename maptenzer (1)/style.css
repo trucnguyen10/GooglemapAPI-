@@ -1,0 +1,16 @@
+html, body {
+  width: 100%;
+  height: 100%;
+}
+h1 {text-align: center; 
+    font-family: var(--Arial-font);}
+h2 {text-align: center; 
+    font-family: var(--Sniglet-font);
+   color: yellow; }
+:root {
+  --Sniglet-font: "Sniglet", cursive;
+}
+header{
+  background: #80c8ff;
+}
+
